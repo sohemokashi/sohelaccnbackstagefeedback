@@ -1,0 +1,7 @@
+site_name: "sohelfeedback"
+docs_dir: docs
+site_description: "sohel"
+nav:
+  - Introduction: index.md
+plugins:
+  - techdocs-core
